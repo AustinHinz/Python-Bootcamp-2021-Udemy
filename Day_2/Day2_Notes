@@ -1,0 +1,18 @@
+123456789 is the same as 123_456_789
+
+Float = number with a decimal point
+
+Boolean = true or false
+
+################################
+street_name = "Abbey Road"
+print(street_name[4] + street_name[7])
+
+prints out "yo", takes the 4th index and 7th index and combines 
+################################
+
+len commands default return is an integer
+
+to go to the power of something use: **
+
+round function: used for rounding. Ex) (2.6666, 2) is 2.67
